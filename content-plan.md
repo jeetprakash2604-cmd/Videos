@@ -2,30 +2,48 @@
 
 Niches: Personal Finance · History Mysteries · Psychology & Self-Improvement
 
-## Channel setup (2 channels, not 3)
+## Channel setup (3 separate channels, launched one at a time)
 
-Putting three unrelated topics on one channel confuses the algorithm. Finance and psychology overlap a lot, so combine those two and keep history separate.
+Each topic gets its own channel so YouTube knows exactly who to show it to.
 
 | Channel | Topics | Name ideas | Visual style |
 |---|---|---|---|
-| **Channel A (start here)** | Psychology of money + self-improvement | Mind Over Money · The Quiet Edge · Rich Habits Lab | Clean stock footage, bold white captions, simple Canva charts, calm lo-fi music |
-| **Channel B (add in month 2)** | History mysteries | Lost Archives · Untold Ages · The Vanishing File | Old photos and maps, slow zooms, dark tones, deep narrator voice, ambient music |
+| **1. Personal Finance** | Budgeting, saving, investing basics, side income | Money Made Simple · The Smart Wallet · Cash Clarity | Clean stock footage, simple Canva charts and numbers, upbeat lo-fi music |
+| **2. Psychology & Self-Improvement** | Human behavior, the mind, habits, emotions, relationships | Mind Decoded · The Quiet Mind · Inner Wiring | Calm stock footage, minimal text animations, soft piano or ambient music |
+| **3. History Mysteries** | Unsolved events, lost places, strange history | Lost Archives · Untold Ages · The Vanishing File | Old photos and maps, slow zooms, dark tones, deep narrator voice |
 
-**Time budget:** In month 1 put all of your hour into Channel A (2 long videos + 6 Shorts a week). From month 2, split it: 1 long video + 4 Shorts a week on each channel.
+**Launch order (with 1 hour a day):**
+- **Month 1:** Psychology only (2 long videos + 6 Shorts a week). It is the easiest to script and grows fast with Shorts.
+- **Month 2:** Add History. Each channel gets 1 long video + 3–4 Shorts a week.
+- **Month 3:** Add Finance, the highest-paying niche, once you're fast at editing. Do 1 long video every 1–2 weeks per channel plus daily Shorts across all three.
 
-## Channel A: 10 video ideas (finance + psychology)
-1. Why Smart People Stay Broke (the psychology behind it)
+Don't launch all three on day one. One channel posting consistently beats three posting half-heartedly.
+
+## Channel 1: Personal Finance, 10 video ideas
+1. How to Save Your First $1,000 on a Low Salary
 2. The 50/30/20 Rule Is Outdated. Do This Instead
 3. 7 Money Habits That Quietly Make You Poor
-4. Why You Can't Stop Spending (Dopamine Explained)
-5. How to Save Your First $1,000 on a Low Salary
-6. The 2-Minute Rule That Ends Procrastination
-7. Why Rich People Think Differently About Time
-8. 5 Psychological Tricks Stores Use to Empty Your Wallet
-9. How to Build Discipline When You Have Zero Motivation
-10. Compound Interest Explained Like You're 10
+4. Compound Interest Explained Like You're 10
+5. Emergency Fund: How Much You Actually Need
+6. Index Funds Explained in 5 Minutes
+7. Good Debt vs Bad Debt (Simply Explained)
+8. 10 Things Frugal People Never Buy
+9. How to Build a Budget in 10 Minutes
+10. 5 Side Hustles You Can Start With $0
 
-## Channel B: 10 video ideas (history mysteries)
+## Channel 2: Psychology & Self-Improvement, 10 video ideas
+1. Why Your Brain Loves Procrastination
+2. The Spotlight Effect: Nobody Is Watching You As Much As You Think
+3. 7 Signs Someone Is Secretly Insecure
+4. Why We Remember Embarrassing Moments Forever
+5. The 2-Minute Rule That Ends Procrastination
+6. How to Build Discipline When You Have Zero Motivation
+7. Body Language Tricks That Make People Trust You
+8. Why Overthinkers Can't Sleep (and How to Stop)
+9. The Psychology of First Impressions: 7 Seconds
+10. 5 Habits That Rewire Your Brain in 30 Days
+
+## Channel 3: History Mysteries, 10 video ideas
 1. The Roanoke Colony: 115 People Vanished, One Word Left Behind
 2. The Voynich Manuscript: A Book No One Can Read
 3. The Dyatlov Pass Incident: What Really Happened?
@@ -37,11 +55,11 @@ Putting three unrelated topics on one channel confuses the algorithm. Finance an
 9. The Bronze Age Collapse: When Civilization Shut Down
 10. The Princes in the Tower: History's Coldest Case
 
-Every long video gives you 3 Shorts, so 20 long videos mean about 60 Shorts.
+Every long video gives you 3 Shorts, so 30 long videos mean about 90 Shorts.
 
 ## 3 Shorts scripts ready to voice (about 40 seconds each)
 
-### Short 1 (Channel A): "Why you're always broke after payday"
+### Short 1 (Finance): "Why you're always broke after payday"
 > Payday hits... and three days later, it's gone. Here's why.
 > Your brain gets a dopamine rush the moment money lands. It feels rich, so it spends like it's rich.
 > Psychologists call it the "windfall effect." Money that feels new feels free.
@@ -51,7 +69,7 @@ Every long video gives you 3 Shorts, so 20 long videos mean about 60 Shorts.
 
 Footage: [person checking phone happily] [shopping bags] [brain animation] [bank app transfer] [piggy bank]
 
-### Short 2 (Channel A): "The 2-minute rule"
+### Short 2 (Psychology): "The 2-minute rule"
 > If you procrastinate on everything, try this.
 > It's called the two-minute rule. Don't commit to the whole task. Commit to two minutes.
 > Want to read? Read one page. Want to work out? Just put on your shoes.
@@ -61,7 +79,7 @@ Footage: [person checking phone happily] [shopping bags] [brain animation] [bank
 
 Footage: [person on couch scrolling] [clock timer] [opening book] [tying running shoes] [person working focused]
 
-### Short 3 (Channel B): "The colony that vanished"
+### Short 3 (History): "The colony that vanished"
 > In 1587, 115 English settlers arrived on Roanoke Island.
 > Three years later, their governor returned with supplies... and found no one.
 > No bodies. No signs of a fight. Houses taken apart.
@@ -75,7 +93,7 @@ Footage: [old map of America] [stormy sea ship] [abandoned forest settlement] [c
 ## Prompt to turn any idea into a full script (one prompt, low credits)
 
 ```
-You are a YouTube scriptwriter for a faceless [psychology of money / history mystery] channel.
+You are a YouTube scriptwriter for a faceless [personal finance / psychology & self-improvement / history mystery] channel.
 Topic: [PASTE IDEA]
 Write in one reply:
 1. 5 clickable titles (under 60 chars)
