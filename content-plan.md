@@ -135,15 +135,17 @@ Facts must be accurate; flag anything uncertain.
 **Thumbnails:** dark background, the mascot or a single face from stock, 2–4 words in neon, one warning or code element.
 
 ## Mascot "The User": generated poses (Higgsfield)
-| Pose | Image |
-|---|---|
-| Base / neutral (option A, reference for the others) | https://d8j0ntlcm91z4.cloudfront.net/user_3LkTmvonzvgn0zaKlofgqA7AMzl/hf_20261118_073653_96ef9c2d-0896-47d6-86b9-8b74b2b3d63a.png |
-| Base / neutral (option B) | https://d8j0ntlcm91z4.cloudfront.net/user_3LkTmvonzvgn0zaKlofgqA7AMzl/hf_20261118_073654_1d958422-0b25-4fe9-9499-12586da0a59e.png |
-| Thinking | https://d8j0ntlcm91z4.cloudfront.net/user_3LkTmvonzvgn0zaKlofgqA7AMzl/hf_20261118_073738_f1fa21da-08d3-4fd6-9ec6-cc4a977548f0.png |
-| Stressed / overthinking | https://d8j0ntlcm91z4.cloudfront.net/user_3LkTmvonzvgn0zaKlofgqA7AMzl/hf_20261118_073738_0acdb184-6322-4bde-a398-77ecaadd350f.png |
-| Walking | https://d8j0ntlcm91z4.cloudfront.net/user_3LkTmvonzvgn0zaKlofgqA7AMzl/hf_20261118_073737_e3d08f86-710f-4ae5-a889-2849144cc6d1.png |
-| Sitting / reflective | https://d8j0ntlcm91z4.cloudfront.net/user_3LkTmvonzvgn0zaKlofgqA7AMzl/hf_20261118_073738_6ed4dd38-68ff-4551-8549-4c4a1f2fbc86.png |
-| Celebrating | https://d8j0ntlcm91z4.cloudfront.net/user_3LkTmvonzvgn0zaKlofgqA7AMzl/hf_20261118_073738_8b8c880c-65fc-4548-b233-a72172c3f26b.png |
-| Confused | https://d8j0ntlcm91z4.cloudfront.net/user_3LkTmvonzvgn0zaKlofgqA7AMzl/hf_20261118_073737_70813802-2665-4168-af0d-884682302190.png |
+All images are saved in the `mascot/` folder (1024×1024 PNG). `mascot/contact_sheet.png` shows them side by side.
 
-Using them: download each one and remove the background (CapCut or Canva "Remove background") to get transparent PNGs. Then drop them over footage and animate with slide, zoom or a gentle bounce keyframe.
+| File | Pose | Use for |
+|---|---|---|
+| `00_neutral_a.png` | Neutral (reference for the others) | Intros |
+| `00_neutral_b.png` | Neutral, alternate | Intros |
+| `01_thinking.png` | Thinking, with question mark | Questions, hooks |
+| `02_stressed.png` | Stressed, red warnings | BUG REPORT |
+| `03_walking.png` | Walking, motion trail | Transitions |
+| `04_sitting.png` | Sitting, hugging knees | Emotional topics |
+| `05_celebrating.png` | Celebrating, green check | PATCH / outro |
+| `06_confused.png` | Confused shrug | Myths, contradictions |
+
+Using them: remove the background (CapCut or Canva "Remove background") to get transparent PNGs, then drop them over footage and animate with slide, zoom or a gentle bounce keyframe.
