@@ -135,12 +135,13 @@ Facts must be accurate; flag anything uncertain.
 **Thumbnails:** dark background, the mascot or a single face from stock, 2–4 words in neon, one warning or code element.
 
 ## Mascot "The User": generated poses (Higgsfield)
-All images are saved in the `mascot/` folder (1024×1024 PNG). `mascot/contact_sheet.png` shows them side by side.
+Design: faceless glowing cyan outline figure, purple body glow, transparent head with a glowing **blue brain** inside. All images are saved in the `mascot/` folder (1024×1024 PNG). `mascot/contact_sheet.png` shows them side by side.
+
+To make new poses, use `00_neutral.png` (Higgsfield job `4c956a1c-d299-4467-8d82-20b1a2c5f22e`) as the reference image so the character stays consistent.
 
 | File | Pose | Use for |
 |---|---|---|
-| `00_neutral_a.png` | Neutral (reference for the others) | Intros |
-| `00_neutral_b.png` | Neutral, alternate | Intros |
+| `00_neutral.png` | Neutral (reference for the others) | Intros |
 | `01_thinking.png` | Thinking, with question mark | Questions, hooks |
 | `02_stressed.png` | Stressed, red warnings | BUG REPORT |
 | `03_walking.png` | Walking, motion trail | Transitions |
