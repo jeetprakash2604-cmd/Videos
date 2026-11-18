@@ -110,3 +110,26 @@ Facts must be accurate; flag anything uncertain.
 - **History:** check key dates and facts on Wikipedia before you publish. Viewers will correct you in the comments.
 - Use only royalty-free footage (Pexels, Pixabay) and music (YouTube Audio Library).
 - Edit every AI script and add your own opinion or angle so YouTube doesn't flag it as "inauthentic content".
+
+## The Human Algorithm: visual style guide
+
+**Concept:** treat the human mind like a computer. Cognitive biases are "bugs", habits are "code", emotions are "processes" and change is a "system update".
+
+**Look:** dark navy or black backgrounds, neon cyan (#00E5FF) and soft purple (#8B5CF6) accents, monospace font for labels (JetBrains Mono or Space Mono), bold sans-serif captions (Montserrat ExtraBold).
+
+**Mascot:** "The User", a faceless glowing silhouette (outline only, no facial features). Create it once and reuse the same poses (thinking, stressed, walking, sitting, celebrating).
+
+**Mix per video:**
+- 50% stock footage, color-graded dark and cool, with a light scan-line or grid overlay
+- 30% kinetic text and "system UI" graphics: loading bars, terminal text, popup warnings ("⚠ BUG DETECTED: Spotlight Effect")
+- 20% simple mascot scenes (2D, slide and scale motion only)
+
+**Recurring segments:**
+- `BUG REPORT`: names a cognitive bias
+- `SOURCE CODE`: the science or study behind it
+- `PATCH`: the practical fix
+- `SYSTEM UPDATE`: outro and call to action
+
+**Tools:** Canva (free animated elements, mascot poses, thumbnails), CapCut (keyframes, glitch transitions, typewriter text, auto-captions), Pexels/Pixabay (footage), YouTube Audio Library (ambient synth music).
+
+**Thumbnails:** dark background, the mascot or a single face from stock, 2–4 words in neon, one warning or code element.
